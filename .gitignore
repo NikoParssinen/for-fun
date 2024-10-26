@@ -6,3 +6,8 @@ saves
 options.txt
 minecraftinstance.json
 .curseclient
+usercache.json
+usernamecache.json
+local
+rhino.local.properties
+emi.json
