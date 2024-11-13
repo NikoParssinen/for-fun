@@ -1,5 +1,3 @@
-config
-defaultconfigs
 logs
 resourcepacks
 saves
@@ -11,3 +9,8 @@ usernamecache.json
 local
 rhino.local.properties
 emi.json
+mods
+crash-reports
+backups
+journeymap
+patchouli_data.json
