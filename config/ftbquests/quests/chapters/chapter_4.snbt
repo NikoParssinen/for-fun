@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_4"
+	group: "09B6D4A02AE874D3"
+	id: "24FF179BD9820D47"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	title: "Chapter 4"
+}
