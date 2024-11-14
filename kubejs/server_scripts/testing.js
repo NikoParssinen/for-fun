@@ -10,4 +10,24 @@ ServerEvents.recipes(event => {
         B: 'minecraft:dirt'  
       }
     )
+
+    //CREATIVE VENDING UPGRADE
+    event.recipes.extendedcrafting.shaped_table(
+      'functionalstorage:creative_vending_upgrade', [
+          'A         B',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          ',
+          'A          '
+      ], {
+        A: 'minecraft:stick', 
+        B: 'minecraft:dirt'           
+      }
+  )
 })
